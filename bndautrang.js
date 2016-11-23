@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://g.vatgia.vn/gallery_img/18/xgp1385620197.jpg' width='500px'/><br/>Chuyên bán máy may cũ giá rẻ tại Bình Dương</a>. Liên hệ hotline. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://lh3.googleusercontent.com/-EfylP43ZT08/WDWcmvjsisI/AAAAAAAAAVQ/WKQ-7PpXdKcfKyQe8aoQvs4gApAkEULJgCL0B/w426-h281/11.jpg' width='500px'/><br/>Chuyên bán máy may cũ giá rẻ tại Bình Dương</a>. Liên hệ hotline 0978 247 250. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
