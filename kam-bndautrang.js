@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://goo.gl/vYIQCN' width='500px'/><br/>Chuyên bán máy may cũ giá rẻ tại Bình Dương</a>. Liên hệ hotline 0978 247 250. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://goo.gl/IvuWoc' width='500px'/><br/>Nhà thầu chuyên thi công hệ thống cơ điện</a>. Liên hệ hotline 0919 782 250. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
