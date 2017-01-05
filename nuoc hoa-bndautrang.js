@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://goo.gl/K6DZ01 target='_blank'><img src='https://goo.gl/GBssR5' width='500px'/><br/>Hàng hiệu giá rẻ</a>. Liên hệ hotline 0167 675 1185. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://goo.gl/K6DZ01' target='_blank'><img src='https://goo.gl/GBssR5' width='500px'/><br/>Hàng hiệu giá rẻ</a>. Liên hệ hotline 0167 675 1185. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
