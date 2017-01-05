@@ -1,8 +1,35 @@
 
-	var url_popup = 'goo.gl/wE8WhR';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var url_popup = 'https://goo.gl/ixrMe9';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+	  // var url_ppp = 'http://thicongcodientaibinhduong.blogspot.com/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
