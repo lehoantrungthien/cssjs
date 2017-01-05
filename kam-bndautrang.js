@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://goo.gl/IvuWoc' width='500px'/><br/>Nhà thầu chuyên thi công hệ thống cơ điện</a>. Liên hệ hotline 0919 782 250. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://goo.gl/InQshO' target='_blank'><img src='https://goo.gl/IvuWoc' width='500px'/><br/>Nhà thầu chuyên thi công hệ thống cơ điện</a>. Liên hệ hotline 0919 782 250. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
