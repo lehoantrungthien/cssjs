@@ -1,35 +1,8 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	var url_popup = 'https://goo.gl/ixrMe9';
+	var url_popup = 'https://goo.gl/KH0jHu';
 
       //<![CDATA[
-	  // var url_ppp = 'http://thicongcodientaibinhduong.blogspot.com/';
+	  // var url_ppp = 'http://banmaymaycongnghiepgiare.blogspot.com/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
