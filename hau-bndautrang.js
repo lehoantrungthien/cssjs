@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://goo.gl/SP4ADv' target='_blank'><img src='https://goo.gl/zqMFNB' width='500px'/><br/>SỬA CHỮA BOARD NGÀNH MAY</a>. Liên hệ hotline 0919 782 250. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://goo.gl/3iEWhh' target='_blank'><img src='https://goo.gl/zqMFNB' width='500px'/><br/>SỬA CHỮA BOARD NGÀNH MAY</a>. Liên hệ hotline 0919 782 250. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
