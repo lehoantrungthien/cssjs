@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://goo.gl/KH0jHu';
+	var url_popup = 'https://goo.gl/3iEWhh';
 
       //<![CDATA[
 	  // var url_ppp = 'http://banmaymaycongnghiepgiare.blogspot.com/';
