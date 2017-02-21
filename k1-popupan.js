@@ -2,7 +2,7 @@
 	var url_popup = 'http://www.nhathaucodienvn.com/';
 
       //<![CDATA[
-	  // var url_ppp = 'http://thicongcodientaibinhduong.blogspot.com/';
+	  // var url_ppp = 'http://www.nhathaucodienvn.com/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
