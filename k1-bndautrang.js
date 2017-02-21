@@ -1,5 +1,5 @@
 //please contact me giaiphapthuonghieu.org@gmail.com
-//website http://thicongcodientaibinhduong.blogspot.com/
+//website http://www.nhathaucodienvn.com/
 
 (function(JQuery) {
     JQuery.fn.linhnguyen = function(options) {        
