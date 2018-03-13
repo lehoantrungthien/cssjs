@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://banmaymaycongnghiepgiare.blogspot.com/' target='_blank'><img src='https://goo.gl/KH0jHu' width='500px'/><br/>SỬA CHỮA BOARD NGÀNH MAY</a>. LH 0919 782 250. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://banmaymaycongnghiepgiare.blogspot.com/' target='_blank'><img src='https://goo.gl/KH0jHu' width='500px'/><br/>SỬA CHỮA BOARD NGÀNH MAY</a>. LH 0919 466 505. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
