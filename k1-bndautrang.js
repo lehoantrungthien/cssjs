@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://drive.google.com/file/d/0B-xKAFheP7D6OXk0ZklKZ24wYVE/view' target='_blank'><img src='https://get.google.com/albumarchive/106208753310863985622/album/AF1QipOZ46p_BEFVaSUhUzgEN7Oei8VqJ8LW_Ty0QtHA/AF1QipOO6euz64C_ZijgAVZuYgdzOXG2SZpfNgftJ6y2' width='500px'/><br/>Nhà thầu cơ điện </a> tiêu chuẩn Nhật Bản. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://get.google.com/albumarchive/106208753310863985622/album/AF1QipOZ46p_BEFVaSUhUzgEN7Oei8VqJ8LW_Ty0QtHA' target='_blank'><img src='https://get.google.com/albumarchive/106208753310863985622/album/AF1QipOZ46p_BEFVaSUhUzgEN7Oei8VqJ8LW_Ty0QtHA/AF1QipOO6euz64C_ZijgAVZuYgdzOXG2SZpfNgftJ6y2' width='500px'/><br/>Nhà thầu cơ điện </a> tiêu chuẩn Nhật Bản. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
