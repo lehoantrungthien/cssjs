@@ -1,5 +1,5 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
-//website http://banmyphambinhduong.blogspot.com/
+//please contact me thanhtrung@tinthanhphat.vn
+//website http://www.nhathaucodienvn.com/
 
 (function(JQuery) {
     JQuery.fn.linhnguyen = function(options) {        
@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://banmyphambinhduong.blogspot.com/' target='_blank'><img src='https://goo.gl/YlV7vg' width='500px'/><br/>Hàng hiệu giá rẻ</a>. Shop Yen Nguyen. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://nhathaucodienvn.com/' target='_blank'><img src='https://goo.gl/Vo0LMf' width='500px'/><br/>Nhà thầu cơ điện </a> tiêu chuẩn Nhật Bản. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
