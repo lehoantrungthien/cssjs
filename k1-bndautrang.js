@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://drive.google.com/open?id=1bBMuEBPDnAH8tgiGCrzbbw1KGM8e89BH' target='_blank'><img src='https://get.google.com/albumarchive/106208753310863985622/album/AF1QipOZ46p_BEFVaSUhUzgEN7Oei8VqJ8LW_Ty0QtHA/AF1QipOO6euz64C_ZijgAVZuYgdzOXG2SZpfNgftJ6y2' width='500px'/><br/>Nhà thầu cơ điện </a> tiêu chuẩn Nhật Bản. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://drive.google.com/open?id=1bBMuEBPDnAH8tgiGCrzbbw1KGM8e89BH' target='_blank'><img src='https://drive.google.com/open?id=1bBMuEBPDnAH8tgiGCrzbbw1KGM8e89BH' width='500px'/><br/>Nhà thầu cơ điện </a> tiêu chuẩn Nhật Bản. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
