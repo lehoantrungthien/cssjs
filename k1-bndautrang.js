@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://www.nhathaucodienvn.com/' target='_blank'><img src='https://drive.google.com/file/d/1bBMuEBPDnAH8tgiGCrzbbw1KGM8e89BH/view' width='500px'/><br/>Nhà thầu cơ điện </a> tiêu chuẩn Nhật Bản. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://www.nhathaucodienvn.com/' target='_blank'><img src='https://lh3.googleusercontent.com/-C7J2KGNYOLA/WqdPo8GvTbI/AAAAAAAACDQ/X14hxBzjnaYAJ3aNHyeYGLHoBPAe5D7YwCEwYBhgL/w140-h139-p/Duong%2Bong%2Bsan%2Bxuat%2B04.JPG' width='500px'/><br/>Nhà thầu cơ điện </a> tiêu chuẩn Nhật Bản. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
