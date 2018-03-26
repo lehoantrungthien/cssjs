@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://www.nhathaucodienvn.com/' target='_blank'><img src='https://lh3.googleusercontent.com/-eThRSXjALm4/WqdRnRnMZpI/AAAAAAAACDc/oD_J_l5QUu0obGUI68yXqb4_vRRfDDpXQCJoC/w530-h298-n-rw/thi%2Bc%25C3%25B4ng%2Bc%25C6%25A1%2B%25C4%2591i%25E1%25BB%2587n%2Bt%25E1%25BA%25A1i%2BB%25C3%25ACnh%2BD%25C6%25B0%25C6%25A1ng.png' width='500px'/><br/>Tư vấn thiết kế </a> (Bản vẽ 2D, 3D). <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://www.nhathaucodienvn.com/' target='_blank'><img src='https://drive.google.com/open?id=1EfIwei4yKj1ghJMAyh4DD2BfJfiNlBoV' width='500px'/><br/>Tư vấn thiết kế </a> (Bản vẽ 2D, 3D). <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
