@@ -1,5 +1,5 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
+//please contact me thanhtrung@tinthanhphat.vn
+//website http://www.nhathaucodienvn.com/
 
 (function(JQuery) {
     JQuery.fn.linhnguyen = function(options) {        
@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://goo.gl/K6DZ01' target='_blank'><img src='https://goo.gl/GBssR5' width='500px'/><br/>Hàng hiệu giá rẻ</a>. Liên hệ hotline 0167 675 1185. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://vatlieucachnhietbinhduong.blogspot.com/' target='_blank'><img src='https://i.imgur.com/a0TaswE.jpg' width='500px'/><br/>Vật liệu cách nhiệt chất lượng</a> (rẻ, bền, đẹp). <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
