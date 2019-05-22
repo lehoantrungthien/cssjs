@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://goo.gl/qZJEn0';
+	var url_popup = 'https://vatlieucachnhietbinhduong.blogspot.com/';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bannuochoataibinhduong.blogspot.com/';
+	  // var url_ppp = 'https://vatlieucachnhietbinhduong.blogspot.com/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
