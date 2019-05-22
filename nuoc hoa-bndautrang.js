@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://vatlieucachnhietbinhduong.blogspot.com/' target='_blank'><img src='https://i.imgur.com/a0TaswE.jpg' width='500px'/><br/>Vật liệu cách nhiệt chất lượng</a> (rẻ, bền, đẹp). <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://vatlieucachnhietbinhduong.blogspot.com/' target='_blank'><img src='https://i.imgur.com/k6FZXVT.jpg' width='500px'/><br/>VẬT LIỆU CÁCH NHIỆT</a> (RẺ, BỀN, ĐẸP). <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
